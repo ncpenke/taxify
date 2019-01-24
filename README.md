@@ -8,10 +8,10 @@ Cross-platform application for filling out Federal and State Tax forms in the US
 
 Inspired by the following projects:
 
-https://github.com/robertwb/bitcoin-taxes
-https://github.com/b-k/py1040
-https://github.com/adlr/wash-sale-calculator
-https://github.com/gsugar87/CryptoTaxes
-https://github.com/davidcmoore/python-taxes
-https://github.com/jsaponara/opentaxforms
-http://opentaxsolver.sourceforge.net/
+- <https://github.com/robertwb/bitcoin-taxes>
+- <https://github.com/b-k/py1040>
+- <https://github.com/adlr/wash-sale-calculator>
+- <https://github.com/gsugar87/CryptoTaxes>
+- <https://github.com/davidcmoore/python-taxes>
+- <https://github.com/jsaponara/opentaxforms>
+- <http://opentaxsolver.sourceforge.net/>
