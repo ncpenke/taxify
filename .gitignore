@@ -1,0 +1,17 @@
+# nodejs
+node_modules
+npm-debug.log
+
+# lerna
+lerna-debug.log
+packages/*/node_modules
+
+# typescript
+packages/*/lib
+
+# emacs backup
+*~
+
+# misc
+.DS_store
+
